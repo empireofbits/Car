@@ -28,7 +28,8 @@ Solcar bridges this gap by creating an engaging racing experience where:
 
 ## Screenshots
 
-![Solcar Game Interface]()
+![Car interface ](/assets/sol1.jpg)
+![Solcar Game interface](/assets/sol2.jpg)
 
 ## Roadmap
 
